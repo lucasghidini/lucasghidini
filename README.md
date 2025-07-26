@@ -8,7 +8,10 @@ Studying Data science/engineering
 
 ## Stats
 ![lucas ghidini's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasghidini&show_icons=true&theme=gruvbox)	
-          
+
+## Contact
+<a href = "lucasghidini.ad@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/ghidinilucas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
           
 
