@@ -5,6 +5,7 @@ Studying Data science/engineering
 
 ## Technologies and Tools
 
-<i class="devicon-python-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+          
           
           
