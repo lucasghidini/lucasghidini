@@ -5,6 +5,6 @@ Studying Data science/engineering
 
 ## Technologies and Tools
 
-            <i class="devicon-python-plain-wordmark"></i>
+<i class="devicon-python-plain-wordmark"></i>
           
           
