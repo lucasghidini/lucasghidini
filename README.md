@@ -1,7 +1,7 @@
 # I'm Lucas Ghidini
 ---
 ## About
-Studying Data science/engineering
+Studying Data Engineer/Data science
 
 ## Technologies and Tools
 
